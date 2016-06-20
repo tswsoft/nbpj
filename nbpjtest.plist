@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://kld.8866.org:8088/nbpj/mobile/download/app.ipa</string>
+					<string>http://kld.webok.net:8080/nbpj/mobile/download/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://kld.8866.org:8088/nbpj/mobile/download/icon.png</string>
+					<string>http://kld.webok.net:8080/nbpj/mobile/download/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://kld.8866.org:8088/nbpj/mobile/download/icon.png</string>
+					<string>http://kld.webok.net:8080/nbpj/mobile/download/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.kld.nbpjtest</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
